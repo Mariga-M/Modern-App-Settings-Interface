@@ -18,11 +18,18 @@ A comprehensive app settings interface that covers the most essential categories
 - Smooth transitions between themes
 - All UI elements adapt to the selected theme
 
-##Font Size Control:
+## Font Size Control:
 
 - The slider dynamically adjusts text size across the entire interface
 - Range from 12px to 20px with real-time preview
 - Affects all text elements proportionally
+
+## Professional Modal Dialogs:
+
+- Export Data Modal: Clean info-style modal with download icon and clear messaging
+- Delete Account Modal: Danger-style modal with warning styling and destructive action confirmation
+- Reset Settings Modal: Warning-style modal with appropriate caution styling
+- Each modal has proper icons, colors, and messaging that match their purpose
 
 ## Interactive Buttons:
 
