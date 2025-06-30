@@ -2,6 +2,8 @@
 
 A comprehensive app settings interface that covers the most essential categories users expect in modern applications. This is designed for a productivity/SaaS application with professional-grade settings.
 
+![mockup #1](https://github.com/user-attachments/assets/c741abde-92a4-4964-9445-f8f7125bf40b)
+
 ## Core Features:
 
 - Appearance customization (theme, display preferences)
